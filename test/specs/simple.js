@@ -8,7 +8,7 @@ describe('TrueAutomation.IO page', ()=> {
 
     it('should demonstrate the scroll command', function () {
         $('[href="https://app.trueautomation.io/auth/signin"]').click();
-        $('[href="signup1"]').click();
+        $('[href="signup"]').click();
         $('[placeholder="Email"]').setValue('your@gmail.com');
     });
 
