@@ -1,4 +1,3 @@
-//import {ta} from 'trueautomation-helper';
 const ta = require('trueautomation-helper').ta;
 
 
