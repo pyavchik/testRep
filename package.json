@@ -16,12 +16,12 @@
     "node-fetch": "^2.1.2",
     "selenium-standalone": "^6.14.1",
     "sinon": "^4.5.0",
+    "wdio": "^3.0.0",
     "wdio-chromedriver-service": "^0.1.3",
     "wdio-firefox-profile-service": "0.1.1",
     "wdio-phantomjs-service": "^0.2.2",
     "wdio-selenium-standalone-service": "0.0.10",
-    "wdio-spec-reporter": "^0.1.4",
-    "webdriverio": "^4.12.0"
+    "wdio-spec-reporter": "^0.1.4"
   },
   "repository": {
     "type": "git",
@@ -44,6 +44,7 @@
   "devDependencies": {
     "trueautomation-helper": "^0.3.0",
     "wdio-mocha-framework": "^0.5.13",
-    "wdio-trueautomation-service": "^0.3.3"
+    "wdio-trueautomation-service": "^0.3.3",
+    "webdriverio": "^4.14.0"
   }
 }
